@@ -67,7 +67,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .bg-color2{
     color:#fff;
-    background:#F28C83;
+    background:#666666;
 }
 
 .bg-color3{
@@ -190,7 +190,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     display: inline-block;
     font-size:24px;
     font-weight:700;
-    color: #fff;
+    color: #666666;
     text-transform: uppercase;
 }
 
@@ -402,7 +402,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     max-width: 85%;
     box-shadow: 3px 5px 8px rgba(0,0,0,0.5);
     -webkit-transform: rotate(-5deg);
-    transform: rotate(-5deg);
+    transform: rotate(0deg);
 }
 
 /*-----------------------
