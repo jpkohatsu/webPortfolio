@@ -120,7 +120,8 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     color:#fff;
     font-size: 21px;
     font-weight: 300;
-    background:#3c763d;
+    /*background:#3c763d;*/
+    background:#509B9E;
     outline: none !important;
     border-radius: 0;
     transition: opacity .2s ease-out;
@@ -276,7 +277,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 #main-nav.scrolled .nav li.active a,
 #main-nav.scrolled .nav a:hover{
-    color: #3c763d;
+    color: #509B9E;
 }
 
 /*-----------------------
@@ -985,7 +986,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 #contact-form .form-control:focus {
     background:#fff;
-    border-bottom:3px solid #3c763d;
+    border-bottom:3px solid #509B9E;
     outline:none;
     box-shadow:none;
     -webkit-transition:border-color .3s ease-in;
