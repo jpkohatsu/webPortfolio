@@ -556,7 +556,8 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 #filter-works ul li.active a,
 #filter-works ul li:hover a{
-    color:#509B9E;
+    /*color:#509B9E;*/
+    background: #666666;
 }
 
 .masonry-wrapper{
@@ -625,7 +626,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     height:100%;
     top:0;
     left:0;
-    background:#509B9E;
+    background:#666666;
     opacity: 0;
     filter:alpha(opacity=0);
     -webkit-transition:all 0.3s ease-out;
@@ -1421,3 +1422,15 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
         margin-top:70px;
     }
 } 
+
+/*----------------------
+----- Extra Styles ----
+------------------------*/
+
+#project-content {
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-top: 20px;
+     padding-bottom: 6px;
+     background: #666666;
+}
